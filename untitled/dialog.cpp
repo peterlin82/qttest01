@@ -12,3 +12,8 @@ Dialog::~Dialog()
 {
     delete ui;
 }
+
+void Dialog::on_toolButton_clicked()
+{
+
+}
