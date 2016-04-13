@@ -15,5 +15,5 @@ Dialog::~Dialog()
 
 void Dialog::on_toolButton_clicked()
 {
-
+    ui->label->setText("aaa");
 }
